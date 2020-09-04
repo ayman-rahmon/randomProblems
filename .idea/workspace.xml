@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eab43d1a-3f7f-4b73-a9a1-f9b058f66d3d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GradingStudents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ZeroMoveNim.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TimeConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TimeConversion.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +36,14 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.TimeConversion">
+  <component name="RunManager" selected="Application.GradingStudents">
+    <configuration name="GradingStudents" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GradingStudents" />
+      <module name="Test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="IntRoman" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="IntRoman" />
       <module name="Test" />
@@ -68,6 +74,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GradingStudents" />
         <item itemvalue="Application.TimeConversion" />
         <item itemvalue="Application.IntRoman" />
         <item itemvalue="Application.Roman_int" />
@@ -97,22 +104,22 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="740" y="299" width="428" height="474" key="FileChooserDialogImpl/1920.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1599152271045" />
-    <state width="1816" height="270" key="GridCell.Tab.0.bottom" timestamp="1599152771005">
+    <state width="914" height="289" key="GridCell.Tab.0.bottom" timestamp="1599200159648">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1816" height="270" key="GridCell.Tab.0.bottom/1920.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1599152771005" />
-    <state width="1816" height="270" key="GridCell.Tab.0.center" timestamp="1599152771005">
+    <state width="914" height="289" key="GridCell.Tab.0.bottom/1920.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1599200159648" />
+    <state width="914" height="289" key="GridCell.Tab.0.center" timestamp="1599200159648">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1816" height="270" key="GridCell.Tab.0.center/1920.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1599152771005" />
-    <state width="1816" height="270" key="GridCell.Tab.0.left" timestamp="1599152771004">
+    <state width="914" height="289" key="GridCell.Tab.0.center/1920.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1599200159648" />
+    <state width="914" height="289" key="GridCell.Tab.0.left" timestamp="1599200159648">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1816" height="270" key="GridCell.Tab.0.left/1920.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1599152771004" />
-    <state width="1816" height="270" key="GridCell.Tab.0.right" timestamp="1599152771005">
+    <state width="914" height="289" key="GridCell.Tab.0.left/1920.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1599200159648" />
+    <state width="914" height="289" key="GridCell.Tab.0.right" timestamp="1599200159648">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1816" height="270" key="GridCell.Tab.0.right/1920.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1599152771005" />
+    <state width="914" height="289" key="GridCell.Tab.0.right/1920.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1599200159648" />
     <state width="1816" height="333" key="GridCell.Tab.1.bottom" timestamp="1599150844145">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
