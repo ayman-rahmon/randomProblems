@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eab43d1a-3f7f-4b73-a9a1-f9b058f66d3d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Kangroo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Kangroo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kangroo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,6 +139,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="445" y="142" width="1028" height="835" key="SettingsEditor/1920.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1599152291271" />
+    <state x="624" y="353" key="com.intellij.ide.util.TipDialog" timestamp="1599323575920">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="624" y="353" key="com.intellij.ide.util.TipDialog/1920.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1599323575920" />
     <state x="735" y="445" width="439" height="150" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599149709644">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
