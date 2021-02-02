@@ -2,8 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eab43d1a-3f7f-4b73-a9a1-f9b058f66d3d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Meeting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MeetingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WeightForWeight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WeightSortTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Kangroo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kangroo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/GFG.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test/GFG.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/GradingStudents.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test/GradingStudents.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/IntRoman.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test/IntRoman.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/IntToRoman.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test/IntToRoman.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/MinMax.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test/MinMax.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/PlusMinus.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test/PlusMinus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/ReverseInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test/ReverseInteger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/Roman_int.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test/Roman_int.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/TimeConversion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test/TimeConversion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/TriAngle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test/TriAngle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/ZeroMoveNim.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test/ZeroMoveNim.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/sumTwoNumbers$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test/sumTwoNumbers$ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/sumTwoNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test/sumTwoNumbers.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,22 +39,41 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="1YkyHreSV4BkeL7rXpGetFoIx0Z" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Facets" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
-  <component name="RunManager" selected="Application.GradingStudents">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.WeightSortTest.BasicTests">
     <configuration name="GradingStudents" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GradingStudents" />
       <module name="Test" />
@@ -50,20 +88,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReverseInteger" />
-      <module name="Test" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Roman_int" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Roman_int" />
-      <module name="Test" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TimeConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TimeConversion" />
       <module name="Test" />
@@ -71,16 +95,37 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MeetingTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MeetingTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WeightSortTest.BasicTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WeightSortTest" />
+      <option name="METHOD_NAME" value="BasicTests" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.WeightSortTest.BasicTests" />
+        <item itemvalue="JUnit.MeetingTest.test" />
         <item itemvalue="Application.GradingStudents" />
         <item itemvalue="Application.TimeConversion" />
         <item itemvalue="Application.IntRoman" />
-        <item itemvalue="Application.Roman_int" />
-        <item itemvalue="Application.ReverseInteger" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -93,67 +138,5 @@
       <updated>1583500801941</updated>
     </task>
     <servers />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="802" y="417" width="305" height="206" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1599149725395">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="802" y="417" width="305" height="206" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/1920.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1599149725395" />
-    <state x="740" y="299" width="428" height="474" key="FileChooserDialogImpl" timestamp="1599152271045">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="740" y="299" width="428" height="474" key="FileChooserDialogImpl/1920.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1599152271045" />
-    <state width="914" height="289" key="GridCell.Tab.0.bottom" timestamp="1599201904426">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="914" height="289" key="GridCell.Tab.0.bottom/1920.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1599201904426" />
-    <state width="914" height="289" key="GridCell.Tab.0.center" timestamp="1599201904426">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="914" height="289" key="GridCell.Tab.0.center/1920.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1599201904426" />
-    <state width="914" height="289" key="GridCell.Tab.0.left" timestamp="1599201904426">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="914" height="289" key="GridCell.Tab.0.left/1920.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1599201904426" />
-    <state width="914" height="289" key="GridCell.Tab.0.right" timestamp="1599201904426">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="914" height="289" key="GridCell.Tab.0.right/1920.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1599201904426" />
-    <state width="1816" height="333" key="GridCell.Tab.1.bottom" timestamp="1599201904422">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1816" height="333" key="GridCell.Tab.1.bottom/1920.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1599201904422" />
-    <state width="1816" height="333" key="GridCell.Tab.1.center" timestamp="1599201904422">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1816" height="333" key="GridCell.Tab.1.center/1920.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1599201904422" />
-    <state width="1816" height="333" key="GridCell.Tab.1.left" timestamp="1599201904422">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1816" height="333" key="GridCell.Tab.1.left/1920.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1599201904422" />
-    <state width="1816" height="333" key="GridCell.Tab.1.right" timestamp="1599201904422">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1816" height="333" key="GridCell.Tab.1.right/1920.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1599201904422" />
-    <state x="445" y="142" width="1028" height="835" key="SettingsEditor" timestamp="1599152291271">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="445" y="142" width="1028" height="835" key="SettingsEditor/1920.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1599152291271" />
-    <state x="624" y="353" key="com.intellij.ide.util.TipDialog" timestamp="1599323575920">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="624" y="353" key="com.intellij.ide.util.TipDialog/1920.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1599323575920" />
-    <state x="735" y="445" width="439" height="150" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599149709644">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="735" y="445" width="439" height="150" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1599149709644" />
-    <state x="-2" y="138" width="1339" height="764" key="new project wizard" timestamp="1599201896707">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="-2" y="138" width="1339" height="764" key="new project wizard/1920.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1599201896707" />
-    <state x="623" y="258" width="672" height="678" key="search.everywhere.popup" timestamp="1599151233378">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="623" y="258" width="672" height="678" key="search.everywhere.popup/1920.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1599151233378" />
   </component>
 </project>
